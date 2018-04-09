@@ -1,2 +1,3 @@
 # jerry-le.github.io
-Github's page
+[jerry-le.github.io](jerry-le.github.io)
+Jerry Github's page 
